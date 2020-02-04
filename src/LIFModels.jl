@@ -1,5 +1,9 @@
 module LIFModels
 
-greet() = print("Hello World!")
+using NeuralModels
+
+export LIF, Multipop
+
+include("models.jl")
 
 end # module
