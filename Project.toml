@@ -1,0 +1,4 @@
+name = "LIFModels"
+uuid = "c8b00e1f-7e83-47d7-bf2f-a8899d139283"
+authors = ["Graham Smith <grahamas@gmail.com>"]
+version = "0.1.0"
